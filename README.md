@@ -1,2 +1,2 @@
-# Kaggle-Competitiomn
+# Kaggle-Competition
 Documents and codes 
